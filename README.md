@@ -22,7 +22,8 @@ Go to Watchlist Movies https://developer.themoviedb.org/reference/account-watchl
 And Copy Account Id!
 
 ## Ok, that should cover the JS!
-The HTML is a simple copy and paste where you want the widget
+The HTML is a simple copy and paste where you want the widget 
 The CSS is barebones to make it format effectively. You can add all the styling you would like!
+(But remember to add  `<link rel="stylesheet" href="style.css">` in the header and `<script src="script.js"></script>` after the element
 
 If you encounter any problems, PLEASE let me know!
