@@ -1,5 +1,8 @@
 # tmdb-tv-and-show-widget
 A simple widget for displaying your TMDB watchlist dynamically
+
+Widget with minimal styling
+[![Screenshot-2026-02-23-at-12-18-56-Document.png](https://i.postimg.cc/vmM3G376/Screenshot-2026-02-23-at-12-18-56-Document.png)](https://postimg.cc/dhH8BRxq)
 This, sadly, is not a copy-and-paste solution, but here are all the steps you need to take to get it working!
 ---
 # Get Api Info
