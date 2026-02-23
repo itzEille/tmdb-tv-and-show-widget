@@ -1,4 +1,6 @@
-
+#currents-flex{
+    display: flex;
+}
 .show_item img{
     width: auto;
     height: 100px;
